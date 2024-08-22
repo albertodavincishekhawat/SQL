@@ -1,0 +1,25 @@
+
+1 row inserted.
+
+
+Error starting at line : 5 in command -
+update student set
+(email = 'Ellena123@gmail.com',first_name = 'ellena1') where std_id = 2
+Error at Command Line : 6 Column : 8
+Error report -
+SQL Error: ORA-00907: missing right parenthesis
+00907. 00000 -  "missing right parenthesis"
+*Cause:    
+*Action:
+
+1 row updated.
+
+
+Table STUDENT altered.
+
+
+4 rows updated.
+
+
+1 row updated.
+
